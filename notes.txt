@@ -1,0 +1,7 @@
+-- STEPS
+- using blazepose model to get all the points on train image (location) and adding them in temp variable
+- using above method creating a dataframe of all images in folder 
+- train the dataframe with ML classifier 
+
+-- CONCLUSION
+- it seems ml model is not training well with data, possible reasons blazepose not collecting datapoints accoedingly
